@@ -1,0 +1,22 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Local credentials
+.env
+.env.*
+
+# Local environments, caches, and temporary files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+*.log
+*.tmp
+*.temp
+*.bak
